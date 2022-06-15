@@ -1,0 +1,19 @@
+Vivado Simulator 2020.2
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 7d26fb907cfa4386b827a085530906f2 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_uart_loopback_behav xil_defaultlib.tb_uart_loopback xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-5021] port 'rx_in' is not connected on this instance [E:/Projects/fpgas/project_1/tb_UART.v:30]
+WARNING: [VRFC 10-5021] port 'bus_in' is not connected on this instance [E:/Projects/fpgas/project_1/tb_UART.v:38]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.uart_baud
+Compiling module xil_defaultlib.uart_tx
+Compiling module xil_defaultlib.uart_rx
+Compiling module xil_defaultlib.UART
+Compiling module xil_defaultlib.tb_uart_loopback
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_uart_loopback_behav

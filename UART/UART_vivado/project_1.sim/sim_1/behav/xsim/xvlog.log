@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/fpgas/project_1/UART.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UART
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/fpgas/project_1/uart_baud.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_baud
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/fpgas/project_1/uart_rx.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_rx
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/fpgas/project_1/uart_tx.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart_tx
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/fpgas/project_1/tb_UART.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_uart_loopback

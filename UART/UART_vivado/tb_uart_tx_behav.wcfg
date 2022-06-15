@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_uart_tx_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_uart_tx" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1828001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="160"></NameColumnWidth>
+      <ValueColumnWidth column_width="72"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wave_markers>
+      <marker time="600000" label="" />
+      <marker time="1700000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/tb_uart_tx/clk_baud" type="logic">
+      <obj_property name="ElementShortName">clk_baud</obj_property>
+      <obj_property name="ObjectShortName">clk_baud</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/bus_in" type="array">
+      <obj_property name="ElementShortName">bus_in[7:0]</obj_property>
+      <obj_property name="ObjectShortName">bus_in[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/tb_uart_tx_ins/in_buff" type="array">
+      <obj_property name="ElementShortName">in_buff[7:0]</obj_property>
+      <obj_property name="ObjectShortName">in_buff[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/tx_out" type="logic">
+      <obj_property name="ElementShortName">tx_out</obj_property>
+      <obj_property name="ObjectShortName">tx_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/tb_uart_tx_ins/tx_state" type="logic">
+      <obj_property name="ElementShortName">tx_state</obj_property>
+      <obj_property name="ObjectShortName">tx_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/tb_uart_tx_ins/cnt_bits" type="array">
+      <obj_property name="ElementShortName">cnt_bits[3:0]</obj_property>
+      <obj_property name="ObjectShortName">cnt_bits[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_uart_tx/tb_uart_tx_ins/bus_start" type="logic">
+      <obj_property name="ElementShortName">bus_start</obj_property>
+      <obj_property name="ObjectShortName">bus_start</obj_property>
+   </wvobject>
+</wave_config>

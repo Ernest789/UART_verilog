@@ -1,0 +1,13 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+E:/Projects/fpgas/project_1/UART.v,1655012803,verilog,,E:/Projects/fpgas/project_1/uart_baud.v,,UART,,,,,,,,
+E:/Projects/fpgas/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+E:/Projects/fpgas/project_1/tb_UART.v,1655014377,verilog,,,,tb_uart_loopback,,,,,,,,
+E:/Projects/fpgas/project_1/tb_uart_baud.v,1654995796,verilog,,,,tx_uart_baud,,,,,,,,
+E:/Projects/fpgas/project_1/tb_uart_rx.v,1655004943,verilog,,,,tb_uart_rx,,,,,,,,
+E:/Projects/fpgas/project_1/tb_uart_tx.v,1655002363,verilog,,,,tb_uart_tx,,,,,,,,
+E:/Projects/fpgas/project_1/uart_baud.v,1654996994,verilog,,E:/Projects/fpgas/project_1/uart_rx.v,,uart_baud,,,,,,,,
+E:/Projects/fpgas/project_1/uart_rx.v,1655016942,verilog,,E:/Projects/fpgas/project_1/uart_tx.v,,uart_rx,,,,,,,,
+E:/Projects/fpgas/project_1/uart_tx.v,1655003139,verilog,,E:/Projects/fpgas/project_1/tb_UART.v,,uart_tx,,,,,,,,
